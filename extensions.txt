@@ -1,0 +1,18 @@
+# code --list-extensions
+# cat extensions.list |% { code --install-extension $_}
+CoenraadS.bracket-pair-colorizer
+MS-CEINTL.vscode-language-pack-de
+SirTori.indenticator
+christian-kohler.path-intellisense
+dbaeumer.vscode-eslint
+donjayamanne.githistory
+eamodio.gitlens
+formulahendry.auto-close-tag
+oderwat.indent-rainbow
+robertohuertasm.vscode-icons
+slevesque.vscode-multiclip
+vscodevim.vim
+vuhrmeister.vscode-meteor
+wayou.vscode-todo-highlight
+xabikos.JavaScriptSnippets
+zhuangtongfa.Material-theme

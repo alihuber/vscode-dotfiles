@@ -1,0 +1,63 @@
+{
+  "eslint.options": {
+    "configFile": "./.eslintrc"
+  },
+  "editor.minimap.enabled": true,
+  "editor.lineNumbers": "relative",
+  "editor.renderWhitespace": "all",
+  "window.zoomLevel": 1,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "search.exclude": {
+    "**/.meteor": true,
+    "**/.vscode": true,
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/bower_components": true
+  },
+  "vim.leader": ",",
+  "vim.easymotion": true,
+  "vim.history": 10000,
+  "vim.otherModesKeyBindings": [
+    {
+      "before": [
+        "<leader>",
+        "y"
+      ],
+      "after": [],
+      "commands": [
+        {
+          "command": "multiclip.copy"
+        }
+      ]
+    },
+    {
+      "before": [
+        "<leader>",
+        "p"
+      ],
+      "after": [],
+      "commands": [
+        {
+          "command": "multiclip.list"
+        }
+      ]
+    }
+  ],
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "k"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#ff0000"
+  },
+  "workbench.iconTheme": "vscode-icons"
+}
