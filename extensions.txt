@@ -16,3 +16,4 @@ vuhrmeister.vscode-meteor
 wayou.vscode-todo-highlight
 xabikos.JavaScriptSnippets
 zhuangtongfa.Material-theme
+sidneys1.gitconfig
