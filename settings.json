@@ -1,63 +1,69 @@
 {
-  "eslint.options": {
-    "configFile": "./.eslintrc"
-  },
-  "editor.minimap.enabled": true,
-  "editor.lineNumbers": "relative",
-  "editor.renderWhitespace": "all",
-  "window.zoomLevel": 1,
-  "gitlens.advanced.messages": {
-    "suppressShowKeyBindingsNotice": true
-  },
-  "search.exclude": {
-    "**/.meteor": true,
-    "**/.vscode": true,
-    "**/.git": true,
-    "**/node_modules": true,
-    "**/bower_components": true
-  },
-  "vim.leader": ",",
-  "vim.easymotion": true,
-  "vim.history": 10000,
-  "vim.otherModesKeyBindings": [
-    {
-      "before": [
-        "<leader>",
-        "y"
-      ],
-      "after": [],
-      "commands": [
-        {
-          "command": "multiclip.copy"
-        }
-      ]
+    "eslint.options": {
+        "configFile": "./.eslintrc"
     },
-    {
-      "before": [
-        "<leader>",
-        "p"
-      ],
-      "after": [],
-      "commands": [
+    "editor.minimap.enabled": true,
+    "editor.lineNumbers": "relative",
+    "editor.rulers": [80, 120],
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 1,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "search.exclude": {
+        "**/.meteor": true,
+        "**/.vscode": true,
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/bower_components": true
+    },
+    "vim.leader": ",",
+    "vim.history": 10000,
+    "vim.hlsearch": true,
+    "vim.otherModesKeyBindings": [
         {
-          "command": "multiclip.list"
+            "before": [
+                "<leader>",
+                "y"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "multiclip.copy"
+                }
+            ]
+        },
+        {
+            "before": [
+                "<leader>",
+                "p"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "multiclip.list"
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "vim.insertModeKeyBindings": [
-    {
-      "before": [
-        "j",
-        "k"
-      ],
-      "after": [
-        "<Esc>"
-      ]
-    }
-  ],
-  "workbench.colorCustomizations": {
-    "editorCursor.foreground": "#ff0000"
-  },
-  "workbench.iconTheme": "vscode-icons"
+    ],
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "k"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "vim.useSystemClipboard": true,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#ff0000"
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "vscode-icons",
+    "gitlens.historyExplorer.enabled": true
 }
