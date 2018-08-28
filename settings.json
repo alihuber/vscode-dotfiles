@@ -7,18 +7,39 @@
     "editor.rulers": [80, 120],
     "editor.insertSpaces": true,
     "editor.tabSize": 2,
+    "editor.formatOnSave": false,
     "editor.renderWhitespace": "all",
     "window.zoomLevel": 1,
+    "window.restoreWindows": "none",
+    "window.titleBarStyle": "custom",
+    "window.title": "${activeEditorLong}",
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
-    "search.exclude": {
-        "**/.meteor": true,
-        "**/.vscode": true,
-        "**/.git": true,
-        "**/node_modules": true,
-        "**/bower_components": true
+	"files.exclude": {
+		"**/node_modules": true,
+		"**/.git": true,
+		"**/.npm": true,
+		"**/.vscode": true,
+		"**/.DS_Store": true,
+		"**/.meteor/local": true
     },
+	"files.watcherExclude": {
+		"**/node_modules": true,
+		"**/.git/objects/**": true,
+		"**/.npm": true,
+		"**/.vscode": true,
+		"**/.DS_Store": true,
+		"**/.meteor/local": true
+	},
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/.git": true,
+		"**/.npm": true,
+		"**/.vscode": true,
+		"**/.DS_Store": true,
+		"**/.meteor/local": true
+	},
     "vim.leader": ",",
     "vim.history": 10000,
     "vim.hlsearch": true,
