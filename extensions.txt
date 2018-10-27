@@ -1,19 +1,25 @@
 # code --list-extensions
 # cat extensions.list |% { code --install-extension $_}
 # cat extensions.list | xargs -L 1 echo code --install-extension
+SirTori.indenticator
 Atishay-Jain.All-Autocomplete
+christian-kohler.npm-intellisense
+christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
 MS-CEINTL.vscode-language-pack-de
-SirTori.indenticator
-christian-kohler.path-intellisense
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
+eg2.tslint
 formulahendry.auto-close-tag
+kumar-harsh.graphql-for-vscode
+msjsdiag.debugger-for-chrome
 oderwat.indent-rainbow
+PeterJausovec.vscode-docker
 robertohuertasm.vscode-icons
 sidneys1.gitconfig
 slevesque.vscode-multiclip
+stringham.move-ts
 vscodevim.vim
 vuhrmeister.vscode-meteor
 wayou.vscode-todo-highlight
