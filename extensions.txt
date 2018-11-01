@@ -6,13 +6,14 @@ Atishay-Jain.All-Autocomplete
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
-MS-CEINTL.vscode-language-pack-de
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 eamodio.gitlens
 eg2.tslint
+esbenp.prettier-vscode
 formulahendry.auto-close-tag
 kumar-harsh.graphql-for-vscode
+MS-CEINTL.vscode-language-pack-de
 msjsdiag.debugger-for-chrome
 oderwat.indent-rainbow
 PeterJausovec.vscode-docker
