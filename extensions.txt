@@ -27,4 +27,5 @@ vscodevim.vim
 vuhrmeister.vscode-meteor
 wayou.vscode-todo-highlight
 xabikos.JavaScriptSnippets
+yzane.markdown-pdf
 zhuangtongfa.Material-theme
