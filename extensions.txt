@@ -1,7 +1,6 @@
 # code --list-extensions
 # cat extensions.list |% { code --install-extension $_}
 # cat extensions.list | xargs -L 1 echo code --install-extension
-SirTori.indenticator
 Atishay-Jain.All-Autocomplete
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
@@ -22,8 +21,10 @@ naumovs.color-highlight
 oderwat.indent-rainbow
 PKief.material-icon-theme
 sidneys1.gitconfig
+SirTori.indenticator
 slevesque.vscode-multiclip
 stringham.move-ts
+tombonnike.vscode-status-bar-format-toggle
 vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
