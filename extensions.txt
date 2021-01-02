@@ -1,6 +1,7 @@
 # code --list-extensions
 # cat extensions.list |% { code --install-extension $_}
 # cat extensions.list | xargs -L 1 echo code --install-extension
+alexnho.a-touch-of-lilac-theme
 Atishay-Jain.All-Autocomplete
 BriteSnow.vscode-toggle-quotes
 christian-kohler.npm-intellisense
@@ -10,9 +11,11 @@ dbaeumer.vscode-eslint
 donjayamanne.githistory
 dsznajder.es7-react-js-snippets
 eamodio.gitlens
+Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
+kgscott.retreon
 johnpapa.vscode-peacock
 kumar-harsh.graphql-for-vscode
 ms-azuretools.vscode-docker
