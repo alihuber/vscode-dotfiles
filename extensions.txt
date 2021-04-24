@@ -15,6 +15,7 @@ Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
+inu1255.easy-snippet
 kgscott.retreon
 johnpapa.vscode-peacock
 kumar-harsh.graphql-for-vscode
@@ -27,15 +28,18 @@ PKief.material-icon-theme
 sdras.night-owl
 sidneys1.gitconfig
 SirTori.indenticator
+sleistner.vscode-fileutils
 slevesque.vscode-multiclip
 stringham.move-ts
-tombonnike.vscode-status-bar-format-toggle
+usernamehw.errorlens
 vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
 vscodevim.vim
 vuhrmeister.vscode-meteor
 wayou.vscode-todo-highlight
+wix.glean
+wooodhead.vscode-wrap-console-log-simple
 xabikos.JavaScriptSnippets
 yzane.markdown-pdf
 zhuangtongfa.Material-theme
