@@ -6,7 +6,6 @@ Atishay-Jain.All-Autocomplete
 BriteSnow.vscode-toggle-quotes
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
-CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
 donjayamanne.githistory
 dsznajder.es7-react-js-snippets
@@ -15,6 +14,7 @@ Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
 formulahendry.auto-close-tag
+hashicorp.terraform
 inu1255.easy-snippet
 kgscott.retreon
 johnpapa.vscode-peacock
@@ -22,6 +22,11 @@ kumar-harsh.graphql-for-vscode
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-de
 msjsdiag.debugger-for-chrome
+ms-vscode.typescript-javascript-grammar
+ms-vscode.vscode-typescript-tslint-plugin
+mtxr.sqltools
+mtxr.sqltools-driver-pg
+mtxr.sqltools-driver-sqlite
 naumovs.color-highlight
 oderwat.indent-rainbow
 PKief.material-icon-theme
