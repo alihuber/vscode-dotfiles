@@ -19,6 +19,7 @@ inu1255.easy-snippet
 kgscott.retreon
 johnpapa.vscode-peacock
 kumar-harsh.graphql-for-vscode
+mattpocock.ts-error-translator
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-de
 msjsdiag.debugger-for-chrome
@@ -36,6 +37,8 @@ SirTori.indenticator
 sleistner.vscode-fileutils
 slevesque.vscode-multiclip
 stringham.move-ts
+that70schris.arcade
+Tyriar.theme-sapphire
 usernamehw.errorlens
 vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
@@ -46,5 +49,6 @@ wayou.vscode-todo-highlight
 wix.glean
 wooodhead.vscode-wrap-console-log-simple
 xabikos.JavaScriptSnippets
+yummygum.city-lights-theme
 yzane.markdown-pdf
 zhuangtongfa.Material-theme
