@@ -13,6 +13,8 @@ eamodio.gitlens
 Equinusocio.vsc-community-material-theme
 Equinusocio.vsc-material-theme
 esbenp.prettier-vscode
+firsttris.vscode-jest-runner
+fofolee.crypto-tools
 formulahendry.auto-close-tag
 hashicorp.terraform
 inu1255.easy-snippet
@@ -22,9 +24,7 @@ kumar-harsh.graphql-for-vscode
 mattpocock.ts-error-translator
 ms-azuretools.vscode-docker
 MS-CEINTL.vscode-language-pack-de
-msjsdiag.debugger-for-chrome
 ms-vscode.typescript-javascript-grammar
-ms-vscode.vscode-typescript-tslint-plugin
 mtxr.sqltools
 mtxr.sqltools-driver-pg
 mtxr.sqltools-driver-sqlite
@@ -44,11 +44,9 @@ vincaslt.highlight-matching-tag
 VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
 vscodevim.vim
-vuhrmeister.vscode-meteor
 wayou.vscode-todo-highlight
 wix.glean
 wooodhead.vscode-wrap-console-log-simple
 xabikos.JavaScriptSnippets
 yummygum.city-lights-theme
-yzane.markdown-pdf
 zhuangtongfa.Material-theme
